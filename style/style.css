@@ -60,15 +60,6 @@ h2 {
     padding-left: 0.5em;
 }
 
-p.principal {
-    font-size: 15px;
-    text-align: center;
-    font-family: var(--fonte-padrao);
-    width: 65%;
-    padding: 1em;
-    margin: auto;
-}
-
 nav>a {
     font-size: 13px;
     font-weight: bold;
